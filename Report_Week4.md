@@ -2,12 +2,32 @@
 
 ## Problem and discussion
 
-I choose the first idea "In Module 3, we explored New York City and the city of Toronto and segmented and clustered their neighborhoods. Both cities are very diverse and are the financial capitals of their respective countries. One interesting idea would be to compare the neighborhoods of the two cities and determine how similar or dissimilar they are. Is New York City more like Toronto or Paris or some other multicultural city? I will leave it to you to refine this idea.""
+According to culture trip the most multicultural cities in the world are:
 
-So, in that case i can compare New York City, Toronto, Paris and other multicultural city like London.
+* Amsterdam
+* London
+* Los Angeles
+* Paris
+* New York City
+* San Francisco
+* São Paulo
+* Singapure
+* Sydney
+* Toronto
+
+The president of ONU needs to compare the neighborhoods of that cities to understand they are similar or not. In that case i'll compare New York City (used in Module 3), Toronto (used in Module 3), Paris and London.
+
 
 
 ## Data
 
-I'll use same example that i used in Module 3 and replicate that to Paris and London.
+1 - New York City Neighborhood names (https://geo.nyu.edu/catalog/nyu_2451_34572)
+
+2 - Toronto Neighborhood names (https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M)
+
+3 - Paris Neighborhood names (https://en.wikipedia.org/wiki/Arrondissements_of_Paris)
+
+4 - London Neighborhood names (https://en.wikipedia.org/wiki/List_of_areas_of_London)
+
+5 - Foursquare API.
 
